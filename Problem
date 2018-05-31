@@ -1,0 +1,8 @@
+Write a JavaScript function which iterates the integers from 1 to n.  
+BUT... for multiples of 3 add "Owasso" to the array instead of the number and for the multiples of five, add "Rams" to the array. 
+
+For numbers which are multiples of both three and five print "OwassoRams".
+
+Very similar to A34.
+
+Add the elements to an array!
